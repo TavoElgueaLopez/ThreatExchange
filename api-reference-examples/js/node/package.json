@@ -14,7 +14,7 @@
   "author": "Zack Allen",
   "license": "ISC",
   "dependencies": {
-    "chai": "^3.0.0",
+    "chai": "^6.0.1",
     "mocha": "^2.2.5",
     "request": "^2.58.0",
     "sepia": "^2.0.1"
